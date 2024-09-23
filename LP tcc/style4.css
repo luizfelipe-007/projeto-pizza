@@ -5,7 +5,7 @@
 }
 #header{
     background-color: red;
-    z-index: 1;
+    z-index: 1 '';
 }
 #h1-header{
     color:#ffffff;
@@ -21,14 +21,14 @@
     padding-top: 3px;
     padding-bottom: 1px;
 }
-.link-cabeçalho{
+.link-cabecalho{
     text-decoration: none ;
     color: #fff;
     word-spacing: 5px;
     font-size: 16px;
     font-family: arial;
 }
-#navegação{
+#navegacao{
     text-align: right;
     padding-right: 5px;
 }
@@ -38,7 +38,7 @@
     margin: 0 auto;
     text-align: center;
     width: 90%;
-    height: 180px;
+    height: 160px;
     border-radius: 12px;
 }
 .h2-section1{
